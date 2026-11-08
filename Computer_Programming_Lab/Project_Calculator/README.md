@@ -1,4 +1,4 @@
-# C Menu-Driven Console Application
+# C Programming – Console Calculator & Utility Application
 
 A menu-driven console application developed using the **C programming language**. This project combines basic mathematical operations, a simple login verification system, and string case conversion in one program.
 
